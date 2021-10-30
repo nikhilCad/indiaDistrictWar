@@ -7,4 +7,6 @@ I saw a video on india in pixels channel, where each district goes on war random
 So far I only found this link
 https://towardsdatascience.com/coloring-india-red-orange-and-green-covid19-choropleth-map-fc21a00f005f
 
+https://analyticsindiamag.com/a-guide-to-geopandas-for-geospatial-data-visualization/
+
 Lets see
