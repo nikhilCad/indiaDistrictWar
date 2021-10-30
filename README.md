@@ -9,4 +9,7 @@ https://towardsdatascience.com/coloring-india-red-orange-and-green-covid19-choro
 
 https://analyticsindiamag.com/a-guide-to-geopandas-for-geospatial-data-visualization/
 
+Refer to install geopnads, little not-so-straightforward without Anaconda
+https://stackoverflow.com/questions/34427788/how-to-successfully-install-pyproj-and-geopandas
+
 Lets see
